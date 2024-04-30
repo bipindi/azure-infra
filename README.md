@@ -18,7 +18,8 @@ Boot sequence
     Windows loads antimalware software.
     Windows loads other kernel drivers and initializes the user mode processes.
 
-    ![image](https://github.com/bipindi/azure-infra/assets/154104190/660bb3c0-be20-4fd4-a25b-12b4d3154bbc)
+![image](https://github.com/bipindi/azure-infra/assets/154104190/02d2bcb7-f532-4134-b53d-9b1884702d0b)
+
 
 
 
