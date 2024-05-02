@@ -20,6 +20,14 @@ Boot sequence
 
 ![image](https://github.com/bipindi/azure-infra/assets/154104190/02d2bcb7-f532-4134-b53d-9b1884702d0b)
 
+Azure reserves 5 IP from each subnet:
+1. x.x.x.0 networkID
+2. x.x.x.1 Gateway IP
+3. x.x.x.lastip broadcast IP
+4. 2 more Ips are reserved for azure services.
+
+If we select /29. it will assign 8 ip from which 5 ips are reserved. so only 3 usable ip is avaiable in this subnet.
+
 
 
 
